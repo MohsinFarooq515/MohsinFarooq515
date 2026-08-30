@@ -98,14 +98,14 @@ AI Engineer with more than one year of professional experience building intellig
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MOHSIN184&show_icons=true&locale=en&theme=default"
+    src="https://github-readme-stats.vercel.app/api?username=MohsinFarooq515&amp;show_icons=true&amp;locale=en"
     alt="Muhammad Mohsin Farooq's GitHub statistics"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=MOHSIN184&show_icons=true&locale=en&layout=compact"
-    alt="Most-used programming languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinFarooq515&amp;layout=compact&amp;langs_count=8"
+    alt="Muhammad Mohsin Farooq's most-used programming languages"
   />
 </p>
