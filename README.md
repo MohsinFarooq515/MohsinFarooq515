@@ -26,7 +26,7 @@ AI Engineer with more than one year of professional experience building intellig
 
 * 💬 Ask me about **Exploratory Data Analysis, data visualization, feature engineering, statistical testing, machine learning, and model evaluation**.
 
-* 📫 Reach me at **[mmohsinfarooqhussain@gmail.com](mailto:mmohsinfh@gmail.com)**.
+* 📫 Reach me at **[mmohsinfh@gmail.com](mailto:mmohsinfh@gmail.com)**.
 
 * ⚡ Fun fact: **I’m a creative problem-solver who enjoys exploring emerging AI technologies and transforming ideas into practical solutions.**
 
@@ -35,7 +35,7 @@ AI Engineer with more than one year of professional experience building intellig
 ### Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/m-mohsin-farooq-962a9a323/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohsinfh/" target="_blank">
     <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -98,14 +98,14 @@ AI Engineer with more than one year of professional experience building intellig
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MohsinFarooq515&amp;show_icons=true&amp;locale=en"
+    src="https://github-readme-stats.shion.dev/api?username=MohsinFarooq515&show_icons=true&theme=transparent"
     alt="Muhammad Mohsin Farooq's GitHub statistics"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinFarooq515&amp;layout=compact&amp;langs_count=8"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=MohsinFarooq515&layout=compact&langs_count=8&theme=transparent"
     alt="Muhammad Mohsin Farooq's most-used programming languages"
   />
 </p>
