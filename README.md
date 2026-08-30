@@ -20,13 +20,13 @@ AI Engineer with more than one year of professional experience building intellig
 
 * 👯 I’m open to collaborating on **innovative, real-world AI and data science projects**.
 
-* 👨‍💻 Explore my projects at [github.com/MOHSIN184](https://github.com/MOHSIN184).
+* 👨‍💻 Explore my projects at [github.com/MohsinFarooq515](https://github.com/MohsinFarooq515).
 
-* 📝 I occasionally share professional insights and updates on [LinkedIn](https://www.linkedin.com/in/m-mohsin-farooq-962a9a323/).
+* 📝 I occasionally share professional insights and updates on [LinkedIn](https://www.linkedin.com/in/mohsinfh/).
 
 * 💬 Ask me about **Exploratory Data Analysis, data visualization, feature engineering, statistical testing, machine learning, and model evaluation**.
 
-* 📫 Reach me at **[mmohsinfarooqhussain@gmail.com](mailto:mmohsinfarooqhussain@gmail.com)**.
+* 📫 Reach me at **[mmohsinfarooqhussain@gmail.com](mailto:mmohsinfh@gmail.com)**.
 
 * ⚡ Fun fact: **I’m a creative problem-solver who enjoys exploring emerging AI technologies and transforming ideas into practical solutions.**
 
